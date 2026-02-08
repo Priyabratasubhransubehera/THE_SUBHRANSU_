@@ -31,8 +31,8 @@ Personal Portfolio Website built using the Wixstro – Wix Astro Template with R
 - **Deployment**: Cloudflare
 
 - 📊 GitHub demo
-- 
-      [https://my-site-f1bvnpp2-psubhransubehera.wix-vibe-site.com/)
+
+![https://github.com/Priyabratasubhransubehera/THE_SUBHRANSU_/blob/main/demo%202.png))
 
 
 ## 🚀 Getting Started
