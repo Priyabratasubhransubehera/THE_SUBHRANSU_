@@ -1,6 +1,6 @@
-# Wixstro - Wix Astro Template
+# 👨‍🚀 PRIYABRATA SUBHRANSU BEHERA .
 
-A modern, full-featured Wix Astro template built with React, TypeScript, and Tailwind CSS. This template provides a solid foundation for building dynamic, interactive websites with Wix's powerful ecosystem.
+Personal Portfolio Website built using the Wixstro – Wix Astro Template with React, TypeScript, and Tailwind CSS, customized to showcase my skills, projects, and passion for modern web development.
 
 ## 🚀 Features
 
@@ -134,14 +134,16 @@ npm run build
 4. Run tests and linting
 5. Submit a pull request
 
-## 🆘 Support
+## 📬 Contact
 
-For support and questions:
+Feel free to connect with me for collaboration, projects, or opportunities.
 
-- Check the [Wix Developer Documentation](https://dev.wix.com/)
-- Review the [Astro Documentation](https://docs.astro.build/)
+Name: Priyabrata Subhransu Behera
 
+LinkedIn: [https://www.linkedin.com/in/priyabrata-subhransu-behera-a3992a369/]
 
----
+Email: [psubhransubehera@gmail.com]
 
-Built with ❤️ using Wix Vibe, Astro, and modern web technologies.
+Check my website:- [https://my-site-f1bvnpp2-psubhransubehera.wix-vibe-site.com]
+
+THANK YOU ....
