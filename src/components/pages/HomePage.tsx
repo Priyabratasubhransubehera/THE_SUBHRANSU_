@@ -185,7 +185,7 @@ export default function HomePage() {
                     <span className="font-paragraph text-accent-teal tracking-widest text-sm uppercase">System Online</span>
                   </div>
                   
-                  <h1 className="font-heading text-5xl md:text-7xl lg:text-8xl font-bold mb-6 leading-[0.9] tracking-tight">
+                  <h1 className="font-heading text-2xl md:text-4xl lg:text-5xl font-bold mb-6 leading-[0.9] tracking-tight">
                     <span className="block text-white mix-blend-difference">PRIYABRATA</span>
                     <span className="block bg-gradient-to-r from-accent-teal via-white to-accent-magenta bg-clip-text text-transparent">
                       SUBHRANSU
