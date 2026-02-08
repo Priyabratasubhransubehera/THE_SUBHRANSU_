@@ -32,7 +32,7 @@ Personal Portfolio Website built using the Wixstro – Wix Astro Template with R
 
 - 📊 GitHub demo
 
-![https://github.com/Priyabratasubhransubehera/THE_SUBHRANSU_/blob/main/demo%202.png)])
+![https://github.com/Priyabratasubhransubehera/THE_SUBHRANSU_/blob/main/demo%202.png]
 
 
 ## 🚀 Getting Started
