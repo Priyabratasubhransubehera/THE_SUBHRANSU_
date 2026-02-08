@@ -30,6 +30,10 @@ Personal Portfolio Website built using the Wixstro – Wix Astro Template with R
 - **Build Tool**: Vite
 - **Deployment**: Cloudflare
 
+- 📊 GitHub demo
+- 
+      [https://my-site-f1bvnpp2-psubhransubehera.wix-vibe-site.com/)
+
 
 ## 🚀 Getting Started
 
